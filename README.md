@@ -14,7 +14,4 @@
   <a href="https://t.me/burn">
     <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://rtm.gg/">
-    <img src="https://img.shields.io/badge/-evade-black?style=plastic&logo=Google%20Gemini&web=white&logoColor=white&link=https://evade.rest/" alt="RTM" />
-  </a>
 </p>
