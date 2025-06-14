@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/1171261965767807028">
     <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/burn">
+  <a href="https://t.me/sick2012">
     <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
